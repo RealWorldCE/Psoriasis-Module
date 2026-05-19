@@ -1,2 +1,2 @@
-# Psoriasis-Module
-Psoriasis Module
+# psoriasis-simulation
+Psoriasis
